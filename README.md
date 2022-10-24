@@ -110,7 +110,8 @@ Project goals:
 
 - Install Docker: [docker](https://docs.docker.com/get-docker/)
 
-- Download Docker image from repository
+- Download Docker image from repository:
+  ``` docker pull plasticglass/painter:latest ```
 
 
 - (Optionaly) Build Docker image:
