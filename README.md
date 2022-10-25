@@ -16,7 +16,6 @@ Project goals:
 - [Training](#training)
 - [Results](#results)
 - [Web app](#web-app)
-- [Demo](#demo)
 - [Docker](#docker)
 - [Modules and tools](#modules-and-tools)
 
@@ -76,7 +75,7 @@ Project goals:
 [cylcegan-training.ipynb](https://github.com/LtvnSergey/CycleGAN-Photo-to-Monet/blob/master/notebook/cyclegan-with-comments-and-explanation-pytorch.ipynb)
 
 - Trained model:
-[model.pt]
+[model.ckpt](https://github.com/LtvnSergey/CycleGAN-Photo-to-Monet/blob/master/model/model.ckpt)
 
 
     
@@ -121,9 +120,6 @@ Project goals:
 - Run following command to execute docker container:
 
   ```  docker run -it -p 7000:7000 plasticglass/painter ``` then go to http://0.0.0.0:7000
-
-
-### Demos
 
 
 ### Modules and Tools
